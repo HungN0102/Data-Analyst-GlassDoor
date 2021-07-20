@@ -9,8 +9,8 @@ Results of the project:
 - In terms of salary per annum, Biotech - Real Estate - Accounting/Legal pay the highest
 
 ### Topic Modelling
-- I.T Sector focus more on topic 1  meaning finding solution and developing are the required tasks. Additionally, terms like healthcare, company, employee appear less often, indicating that there are not many external benefits working with I.T Sector
+- I.T Sector focus more on topic 1  meaning finding solution and developing are the usual tasks within the I.T sector. Additionally, terms like healthcare, company, employee appear less often, indicating that there may not be many external benefits working within I.T Sector.
  <br> <br>
-- Health Care Sector focus more on topic 3 meaning Researching and Analysing are the main required tasks while having health care benefits are a norm. Additionally, terms like Client, Sale, Financial appear less often, indicating that Health Care Sector does not prioritize financial aspect.
+- Health Care Sector focus more on topic 3 meaning Researching and Analysing will be the main task for the Data Analyst while having health care benefits are a norm. Additionally, terms like Client, Sale, Financial appear less often, indicating that Health Care Sector does not prioritize financial aspect.
  <br> <br>
-- Finance Sector focus more on topic 9  which means interaction with clients, working with strategy to calculate risks is a norm in Financial Sector. Additionally, terms relating to SQL, HealthCare are less important indicating working within Finacial Sector are less likely to work with SQL, have healthcare benefits like others
+- Finance Sector focus more on topic 9  which means interaction with clients, working with strategy to calculate risks is a norm in Financial Sector. Additionally, terms relating to SQL are less important, indicating Data Analyst working within Finacial Sector does not spend as much on SQL compared to other sectors.
