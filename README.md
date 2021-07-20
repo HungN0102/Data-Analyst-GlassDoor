@@ -5,8 +5,8 @@ Inside the DataAnalyst Folder, there are 2 folders: input and data.
 
 Results of the project:
 ### General Knowledge
-- Aside from MicroSoft Tools, SQL is a must have to get an data analyst role
-- In terms of salary, Biotech - Real Estate - Accounting/Legal pay the highest
+- Without considering Microsoft Skills, 60% of the job posts require candidates to have SQL skills whereas around 28% of the recruiters require Python and Tableau 
+- In terms of salary per annum, Biotech - Real Estate - Accounting/Legal pay the highest
 
 ### Topic Modelling
 - I.T Sector focus more on topic 1  meaning finding solution and developing are the required tasks. Additionally, terms like healthcare, company, employee appear less often, indicating that there are not many external benefits working with I.T Sector
